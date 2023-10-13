@@ -6,7 +6,8 @@ Code for OGC and GGCM
 PyTorch implementation of OGC and GGCM for semi-supervised node classification [1].
 
 
-OGC in the offical PyG: https://github.com/pyg-team/pytorch_geometric/blob/master/examples/ogc.py
+OGC in the offical PyG library: https://github.com/pyg-team/pytorch_geometric/blob/master/examples/ogc.py
+
 
 ## References
 
