@@ -2,6 +2,10 @@
 
 This repository contains the original PyTorch implementation of OGC and GGCM for semi-supervised node classification [1].
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-cluster-assumption-to-graph-convolution/node-classification-on-citeseer-with-public)](https://paperswithcode.com/sota/node-classification-on-citeseer-with-public?p=from-cluster-assumption-to-graph-convolution)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-cluster-assumption-to-graph-convolution/node-classification-on-cora-with-public-split)](https://paperswithcode.com/sota/node-classification-on-cora-with-public-split?p=from-cluster-assumption-to-graph-convolution)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-cluster-assumption-to-graph-convolution/node-classification-on-pubmed-with-public)](https://paperswithcode.com/sota/node-classification-on-pubmed-with-public?p=from-cluster-assumption-to-graph-convolution)
+
 ## ❗ News 
 
 ### PyG Implementation:
