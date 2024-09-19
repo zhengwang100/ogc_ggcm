@@ -17,6 +17,9 @@ This repository contains the original PyTorch implementation of OGC and GGCM for
 - OGC (official repository): [dgl/examples/pytorch/ogc](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogc)
 - GGCM: [dgl/examples/pytorch/ggcm](https://github.com/SinuoXu/dgl/tree/master/examples/pytorch/ggcm)
 
+### rLLM Implementation:
+- OGC (official repository): [rllm/examples/ogc.py](https://github.com/rllm-team/rllm/blob/main/examples/ogc.py)
+
 
 ## Original Codes
 
